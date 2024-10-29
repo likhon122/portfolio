@@ -56,6 +56,12 @@ export async function generateMetadata() {
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
+      <head>
+        <meta
+          name="google-site-verification"
+          content="FFSZ26lzvssfPv4Ur9tSc5DUiq8makkJsUf3HgF012M"
+        />
+      </head>
       <body className={jetBrainsMono.variable}>
         <Header />
         <StairEffect />

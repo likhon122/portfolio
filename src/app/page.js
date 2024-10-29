@@ -43,10 +43,6 @@ export default async function Home() {
   return (
     <>
       <Head>
-        <meta
-          name="google-site-verification"
-          content="FFSZ26lzvssfPv4Ur9tSc5DUiq8makkJsUf3HgF012M"
-        />
         <link rel="canonical" href="https://likhonislam.me" />
       </Head>
       <section className="h-full">

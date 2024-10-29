@@ -1,6 +1,7 @@
 "use client";
 import { delay, motion } from "framer-motion";
 import Image from "next/image";
+// import profileImage from "@/public/likhon-islam.jpg";
 import profileImage from "@/public/likhon-islam.jpg";
 const Photo = () => {
   return (
@@ -20,16 +21,18 @@ const Photo = () => {
               opacity: 1,
               transition: { delay: 1.2, duration: 0.2, ease: "easeInOut" }
             }}
-            className="w-[298px] h-[298px] xl:h-[350px] xl:w-[350px]"
+            className="flex items-center justify-center w-[278px] h-[278px] xl:h-[350px] xl:w-[350px] mx-auto"
           >
-            <Image
-              src={profileImage}
-              priority
-              quality={100}
-              fill
-              className=" rounded-full object-cover"
-              alt="Likhon Islam Profile Image likhon islam"
-            />
+            <div className="relative w-full h-full rounded-full overflow-hidden">
+              <Image
+                src={profileImage}
+                priority
+                quality={100}
+                fill
+                className="object-cover"
+                alt="Likhon Islam Profile Image"
+              />
+            </div>
           </motion.div>
         </motion.div>
 
@@ -50,7 +53,7 @@ const Photo = () => {
             }}
           >
             <motion.svg
-              className="w-[300px] xl:w-[355px] h-[300px]  xl:h-[355px] z-10 absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2"
+              className="w-[285px] h-[285px] xl:w-[355px]   xl:h-[355px] z-10 absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2"
               fill="transparent"
               viewBox="0 0 506 506"
               xmlns="http://www.w3.org/2000/svg"

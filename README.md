@@ -7,12 +7,7 @@ Welcome to my personal portfolio repository! This README will guide you through 
 - [About Me](#about-me)  
 - [Tech Stack](#tech-stack)  
 - [Demo](#demo)  
-- [Installation](#installation)  
-- [Usage](#usage)  
 - [Projects](#projects)  
-- [Roadmap](#roadmap)  
-- [Contributing](#contributing)  
-- [License](#license)  
 - [Contact](#contact)  
 
 ---

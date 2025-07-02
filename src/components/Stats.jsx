@@ -3,12 +3,12 @@ import CountUp from "react-countup";
 
 const stats = [
   {
-    title: "Years of Experience",
+    title: "Years of Experience in Fiverr",
     count: 3
   },
   {
     title: "Project Completed",
-    count: 20
+    count: 5
   },
   {
     title: "Technologies Mastered",
@@ -16,7 +16,7 @@ const stats = [
   },
   {
     title: "Code Commit",
-    count: 102
+    count: 600
   }
 ];
 

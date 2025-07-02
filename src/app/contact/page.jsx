@@ -18,7 +18,7 @@ const info = [
   {
     icon: <FaPhone />,
     title: "Phone",
-    value: "+8801611513484"
+    value: "+8801622422800"
   },
   {
     icon: <FaEnvelope />,
@@ -28,7 +28,7 @@ const info = [
   {
     icon: <FaMapMarked />,
     title: "Address",
-    value: "Dhaka, Bangladesh"
+    value: "Kushtia , Khulna, Bangladesh"
   }
 ];
 

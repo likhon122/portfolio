@@ -106,9 +106,9 @@ export default async function Home() {
 async function fetchData() {
   return {
     name: "Likhon Islam",
-    jobTitle: "Software Developer",
+    jobTitle: "Web Developer",
     description:
-      "I am Likhon Islam, a Software Developer specializing in building elegant digital experiences. My expertise spans across modern web technologies like React.js, Next.js, Node.js, and more. I deliver tailored solutions that drive business success.",
+      "I am Likhon Islam, a web Developer specializing in building elegant digital experiences. My expertise spans across modern web technologies like React.js, Next.js, Node.js, and more. I deliver tailored solutions that drive business success.",
     services: [
       "Web Development",
       "Mobile App Development",
@@ -123,7 +123,7 @@ async function fetchData() {
       "React",
       "Next.js"
     ],
-    cvLink: "/path-to-your-cv.pdf", // Adjust the path to your actual CV location
+    cvLink: "/path-to-your-cv.pdf",
     socialLinks: [
       { name: "LinkedIn", url: "https://linkedin.com/in/yourprofile" },
       { name: "GitHub", url: "https://github.com/yourprofile" }

@@ -51,8 +51,8 @@ const projects = [
       { name: "Styled Components" }
     ],
     image: slide2,
-    live: "https://lzstore.netlify.app",
-    github: "https://github.com/likhon122/E-commerce-MERN"
+    live: "https://carfision.vercel.app/",
+    github: "https://github.com/likhon122/car-fision-frontend"
   },
   {
     _id: "3",

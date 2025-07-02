@@ -58,9 +58,13 @@ const about = {
   info: [
     { fieldName: "Name", value: "Likhon Islam", isLink: false },
     { fieldName: "Email", value: "md.likhonislam2x@gmail.com", isLink: true },
-    { fieldName: "Phone", value: "+8801611513484", isLink: true },
+    { fieldName: "Phone", value: "+8801622422800", isLink: true },
     { fieldName: "Location", value: "Kushtia, Bangladesh", isLink: false },
-    { fieldName: "Experience", value: "3 years", isLink: false },
+    {
+      fieldName: "Experience",
+      value: "3 years in web development Online Market place Fiverr",
+      isLink: false
+    },
     { fieldName: "Languages", value: "English, Bengali, Hindi", isLink: false },
     { fieldName: "Nationality", value: "Bangladeshi", isLink: false },
     { fieldName: "Freelance", value: "Available", isLink: false },
@@ -83,22 +87,22 @@ const experience = {
       company: "Fiverr",
       position: "Freelancer",
       date: "2022 - Present"
-    },
-    {
-      company: "Dream It Solution",
-      position: "Junior Frontend Developer",
-      date: "2022 - 2023"
-    },
-    {
-      company: "BD IT Agency",
-      position: "Full Stack Developer",
-      date: "2023 - 2024"
-    },
-    {
-      company: "It Solution BD",
-      position: "Full Stack Developer",
-      date: "2024 - Present"
     }
+    // {
+    //   company: "Dream It Solution",
+    //   position: "Junior Frontend Developer",
+    //   date: "2022 - 2023"
+    // },
+    // {
+    //   company: "BD IT Agency",
+    //   position: "Full Stack Developer",
+    //   date: "2023 - 2024"
+    // },
+    // {
+    //   company: "It Solution BD",
+    //   position: "Full Stack Developer",
+    //   date: "2024 - Present"
+    // }
   ]
 };
 

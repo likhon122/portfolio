@@ -44,19 +44,19 @@ Here are a few highlights from this portfolio:
    - Chat Application  
    - Tech used: React, tailwind css, Redux, Node js, Express js, Multer, Mongodb, Cloudinary, Socket IO. 
    - [View on GitHub](https://github.com/likhon122/Chat-app)  
-   - [Live Demo]([https://project-one-demo.com](https://chat-app-three-olive.vercel.app/))
+   - [Live Demo](https://project-one-demo.com](https://chat-app-three-olive.vercel.app/))
 
-2. **Project Two**  
+2. **Project Two**
    - Car Fishion car selling website  
    - Tech used: React, tailwind css, Redux, Node js, Express js, Multer, Mongodb, Cloudinary
-   - [View on GitHub](https://github.com/your-username/project-two)  
-   - [Live Demo](https://project-two-demo.com)
-
-3. **Project Three**  
-   - Brief description of the project  
-   - Tech used: Next.js, Chakra UI, Vercel  
    - [View on GitHub](https://github.com/likhon122/car-fision-frontend)  
    - [Live Demo](https://carfision.vercel.app/)
+
+3. **Project Three**  
+   - My portfolio  
+   - Tech used: Next.js, Tailwind css  
+   - [View on GitHub](https://github.com/likhon122/portfolio)  
+   - [Live Demo](https://likhonislam.me/)
 
 Feel free to add more projects or reorganize this section as you build new work.
 

@@ -1,36 +1,74 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Portfolio
 
-## Getting Started
+Welcome to my personal portfolio repository! This README will guide you through the structure of this project, how to run it locally, and where to find more information about me and my work.
 
-First, run the development server:
+## Table of Contents
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- [About Me](#about-me)  
+- [Tech Stack](#tech-stack)  
+- [Demo](#demo)  
+- [Projects](#projects)  
+- [Contact](#contact)  
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+## About Me
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+Hello! I’m **[Likhon Islam]**, a passionate frontend developer who loves building beautiful and performant web applications. This portfolio showcases a selection of my projects, my skills, and how to get in touch.
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
+## Tech Stack
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- **Languages:** JavaScript (ES6+), CSS  
+- **Frameworks/Libraries:** React, Express, Node js, Next js  
+- **Build Tools:** Vite 
+- **Styling:** Tailwind CSS, Bootstrap, Css, Module Css  
+- **Hosting:** Netlify, Vercel, VPS hosting
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+Feel free to replace or remove items according to your own setup.
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Demo
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Live Site: [https://likhonislam.me/](https://likhonislam.me/)
+
+---
+
+## Projects
+
+Here are a few highlights from this portfolio:
+
+1. **Project One**  
+   - Chat Application  
+   - Tech used: React, tailwind css, Redux, Node js, Express js, Multer, Mongodb, Cloudinary, Socket IO. 
+   - [View on GitHub](https://github.com/likhon122/Chat-app)  
+   - [Live Demo](https://project-one-demo.com](https://chat-app-three-olive.vercel.app/))
+
+2. **Project Two**
+   - Car Fishion car selling website  
+   - Tech used: React, tailwind css, Redux, Node js, Express js, Multer, Mongodb, Cloudinary
+   - [View on GitHub](https://github.com/likhon122/car-fision-frontend)  
+   - [Live Demo](https://carfision.vercel.app/)
+
+3. **Project Three**  
+   - My portfolio  
+   - Tech used: Next.js, Tailwind css  
+   - [View on GitHub](https://github.com/likhon122/portfolio)  
+   - [Live Demo](https://likhonislam.me/)
+
+Feel free to add more projects or reorganize this section as you build new work.
+
+
+---
+
+## Contact
+
+- **Name:** Md Likhon Islam
+- **Email:** md.likhonislam2x@gmail.com  
+- **GitHub:** [https://github.com/likhon122](https://github.com/likhon122)  
+- **LinkedIn:** [https://www.linkedin.com/in/likhon-islam-919438255/](https://www.linkedin.com/in/likhon-islam-919438255/)  
+
+Thank you for visiting my portfolio!  
+Feel free to reach out if you have any questions or opportunities.  

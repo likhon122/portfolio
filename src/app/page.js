@@ -123,7 +123,7 @@ async function fetchData() {
       "React",
       "Next.js"
     ],
-    cvLink: "/path-to-your-cv.pdf",
+    cvLink: "/resumeCV.pdf",
     socialLinks: [
       { name: "LinkedIn", url: "https://linkedin.com/in/yourprofile" },
       { name: "GitHub", url: "https://github.com/yourprofile" }
